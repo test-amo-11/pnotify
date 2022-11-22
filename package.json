@@ -16,7 +16,7 @@
     "lib": "dist"
   },
   "dependencies": {
-    "jquery": "jquery/jquery-dist#>=1.9.1"
+    "jquery": "jquery/jquery-dist#>=1.6.0"
   },
   "devDependencies": {
     "clean-css": "^4.0.12",
